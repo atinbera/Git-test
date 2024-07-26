@@ -1,1 +1,1 @@
-This repositry is for practicing all command of git and github.
+This repository is for practicing all command of git and github.
